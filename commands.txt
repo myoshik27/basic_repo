@@ -1,0 +1,7 @@
+created new repository in git hub named basic_repo
+copied clone URL
+$ git clone https://github.com/myoshik27/basic_repo.git
+$ cd basic_repo
+$ touch index.html
+$ touch style.css
+
