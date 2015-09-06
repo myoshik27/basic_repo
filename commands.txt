@@ -4,4 +4,16 @@ $ git clone https://github.com/myoshik27/basic_repo.git
 $ cd basic_repo
 $ touch index.html
 $ touch style.css
+$ git status
+$ git add .
+$ git commit -m “initial commit”
+$ git push
+
+/* Enter User information */
+/* Edited index.html and style.css*/
+
+$ git status
+$ git add .
+$ git commit -m “added p tag and style”
+$ git push
 
